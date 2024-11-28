@@ -3,8 +3,12 @@
 
 <h3 align="center">An IT security and Big Data student</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/032f3f92-00a0-4803-95db-4038abeff398" alt="Image" width="50%" />
+  <img src="https://github.com/user-attachments/assets/27d02da8-bce2-4c3a-b7a0-7295dd30a305" alt="Programmer Day - Porforever" width="50%">
+
 </p>
+
+
+
 
 - 🔭 I’m currently working on **my acadimic projects T_T**
 
