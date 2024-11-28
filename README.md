@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Zohra Hayoun</h1>
+![AdobeStock_785491346_Preview](https://github.com/user-attachments/assets/10253a3a-8593-4d4f-b9be-36bde98530a1)
+
 <h3 align="center">An IT security and Big Data student</h3>
 
 - 🔭 I’m currently working on **my acadimic projects T_T**
