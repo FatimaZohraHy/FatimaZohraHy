@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my acadimic projects T_T**
 
-- 🌱 I’m currently learning -_- **AWS and**
+- 🌱 I’m currently learning -_- **AWS**
 
 - 👨‍💻 All of my projects are available at [https://fatimazohrahy.github.io/Portfolio/](https://fatimazohrahy.github.io/Portfolio/)
 
