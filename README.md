@@ -1,4 +1,4 @@
-<p align="center">
+<p >
   <img src="https://github.com/user-attachments/assets/7856b465-694c-406b-b605-5fd0c6ebe4f6" alt="Coding GIF"  style="width: 200%; height:50§;" />
 </p>
 <h1 align="center">Hi 👋, I'm Fatima Zohra Hayoun</h1>
