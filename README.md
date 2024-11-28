@@ -1,10 +1,17 @@
-<iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a></p>
+<!-- Embed the GIPHY iframe at the top -->
+<p align="center">
+  <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</p>
+<p align="center">
+  <a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a>
+</p>
+
+<!-- Add the greeting below -->
 <h1 align="center">Hi 👋, I'm Fatima Zohra Hayoun</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/032f3f92-00a0-4803-95db-4038abeff398" alt="Image" width="50%" />
 </p>
-
 
 
 <h3 align="center">An IT security and Big Data student</h3>
