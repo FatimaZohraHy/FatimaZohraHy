@@ -1,12 +1,7 @@
-<!-- Embed the GIPHY iframe at the top -->
 <p align="center">
-  <iframe src="https://giphy.com/embed/bJ4TVNYNUympPgcpem" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</p>
-<p align="center">
-  <a href="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem">via GIPHY</a>
+  <img src="https://github.com/user-attachments/assets/7856b465-694c-406b-b605-5fd0c6ebe4f6" alt="Coding GIF" />
 </p>
 
-<!-- Add the greeting below -->
 <h1 align="center">Hi 👋, I'm Fatima Zohra Hayoun</h1>
 
 <p align="center">
