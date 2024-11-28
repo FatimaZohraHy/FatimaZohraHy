@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatima Zohra Hayoun</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10253a3a-8593-4d4f-b9be-36bde98530a1" alt="![image](https://github.com/user-attachments/assets/1abdbe15-a313-4092-a3a9-ceb32367b29b)
-" />
+  <img src="https://github.com/user-attachments/assets/032f3f92-00a0-4803-95db-4038abeff398" alt="Image" width="50%" />
 </p>
+
+
 
 <h3 align="center">An IT security and Big Data student</h3>
 
