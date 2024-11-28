@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7856b465-694c-406b-b605-5fd0c6ebe4f6" alt="Coding GIF" />
+  <img src="path_to_image.png" alt="Binary Image" style="width: 100%; height: auto;" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Fatima Zohra Hayoun</h1>
 
 <p align="center">
