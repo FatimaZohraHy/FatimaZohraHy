@@ -1,19 +1,5 @@
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;">
-      <h1 align="right">Hello world 👋, I'm Fatima Zohra Hayoun</h1>
-    </td>
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/300f95ff-31d7-4b20-86c4-7f65b10e19e1" alt="MelRibeiro - Overview" style="width: 200px; height: auto; margin-left: 20px;">
-    </td>
-  </tr>
-</table>
 
-
-
-  
-
-
+ <h1 align="center">Hello world 👋, I'm Fatima Zohra Hayoun</h>
 
 <h3 align="center">An IT security and Big Data student</h3>
 <p align="center">
